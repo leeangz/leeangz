@@ -1,6 +1,8 @@
 ### Hi there 👋 This is Seah Lee 🌱
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeangz&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeangz&count_private=true&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeangz&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leeangz&layout=compact)]
 <!--
 **leeangz/leeangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
