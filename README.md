@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Seah Lee 🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeangz&show_icons=true&theme=radical)
 <!--
